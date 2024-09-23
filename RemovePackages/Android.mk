@@ -11,18 +11,12 @@ LOCAL_OVERRIDES_PACKAGES := \
     Maps \
     YouTube \
     BetterBugStub \
-    CalculatorGooglePrebuilt \
-    CalendarGooglePrebuilt \
     Chrome-Stub \
-    GoogleContacts \
-    PrebuiltDeskClockGoogle \
-    PrebuiltBugle \
     TrichromeLibrary \
     TrichromeLibrary-Stub \
     GCS \
     talkback \
     WellbeingPrebuilt \
-    GoogleDialer \
     DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel2020 \
     SafetyHubPrebuilt \
