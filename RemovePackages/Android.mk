@@ -9,7 +9,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     Drive \
     Gmail2 \
     Maps \
-    YouTube
+    YouTube \
     BetterBugStub \
     CalculatorGooglePrebuilt \
     CalendarGooglePrebuilt \
@@ -31,7 +31,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     LatinIMEGooglePrebuilt \
     WebViewGoogle \
     WebViewGoogle-Stub \
-    HealthIntelligenceStubPrebuilt \
+    HealthIntelligenceStubPrebuilt 
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_SRC_FILES := /dev/null
