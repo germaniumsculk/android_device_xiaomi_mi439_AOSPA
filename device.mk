@@ -288,6 +288,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/powerhint/powerhint.xml:$(TARGET_COPY_OUT_VENDOR)/etc/powerhint.xml
 
+# Add Dialer 
+PRODUCT_PACKAGES += \
+    Dialer \
+
 # QTI Components
 TARGET_COMMON_QTI_COMPONENTS += \
     alarm \
